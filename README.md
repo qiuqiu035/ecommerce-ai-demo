@@ -80,20 +80,20 @@ npm run build
 
 ## Folder Structure (Relevant Parts Only)
 
-src/
-  components/
-    Products.jsx         # Catalog + filters + AI search
-    Product.jsx          # Product detail + similar products
-  data/
-    fakestore-sample.js  # Static 12-product dataset
-  utils/
-    nlp.js               # Rule-based NLP parsing & ranking
-  redux/
-    action.js            # Cart actions
-    reducer.js           # Cart reducer
-public/
-  images/                # Local product images
-
+- **src/**
+  - **components/**
+    - `Products.jsx` → Catalog + filters + AI search
+    - `Product.jsx` → Product detail + similar products
+  - **data/**
+    - `fakestore-sample.js` → Static 12-product dataset
+  - **utils/**
+    - `nlp.js` → Rule-based NLP parsing & ranking
+  - **redux/**
+    - `action.js` → Cart actions
+    - `reducer.js` → Cart reducer
+- **public/**
+  - **images/** → Local product images
+```
 
 ---
 
