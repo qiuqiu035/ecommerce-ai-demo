@@ -93,7 +93,6 @@ npm run build
     - `reducer.js` → Cart reducer
 - **public/**
   - **images/** → Local product images
-```
 
 ---
 
