@@ -79,7 +79,7 @@ npm run build
 ---
 
 ## 📂 Folder Structure (Relevant Parts Only)
-
+、、、
 src/
   components/
     Products.jsx         # Catalog + filters + AI search
@@ -93,7 +93,7 @@ src/
     reducer.js           # Cart reducer
 public/
   images/                # Local product images
-
+、、、
 
 ---
 
